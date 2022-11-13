@@ -1,4 +1,5 @@
 import "./App.css";
+import Info from "./components/Info";
 import Navbar from "./components/Navbar";
 import Portrait from "./components/Portrait";
 
@@ -9,7 +10,7 @@ function App() {
         <Navbar />
       </header>
       <Portrait />
-      <h1>Under Construction...</h1>
+      <Info />
     </>
   );
 }

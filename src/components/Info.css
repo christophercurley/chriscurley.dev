@@ -1,0 +1,15 @@
+p {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
+}
+
+.info-container {
+  margin-top: 5rem;
+  width: 500px;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+}
