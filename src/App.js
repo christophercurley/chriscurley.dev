@@ -5,13 +5,14 @@ import Portrait from "./components/Portrait";
 
 function App() {
   return (
-    <>
-      <header>
-        <Navbar />
-      </header>
-      <Portrait />
-      <Info />
-    </>
+    <h1>Under construction...</h1>
+    // <>
+    //   <header>
+    //     <Navbar />
+    //   </header>
+    //   <Portrait />
+    //   <Info />
+    // </>
   );
 }
 
